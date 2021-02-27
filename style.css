@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to bottom, orange, fuchsia);
+}
+
+*{
+   font-weight: 700;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2.8px dashed black;
+    width: 350px;
+    height: 350px; 
+}
+
+.name_of_objects, #result_object_name  , #result_object_accuracy{
+    color: yellow;
+}
+
+label{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.sky{
+    font-size: 18px;
+    color: darkmagenta;
+    font-weight: 600;
+}
+
+.grass{
+    font-size: 18px;
+    font-weight: 600;
+    color: darkorchid;
+}
+
